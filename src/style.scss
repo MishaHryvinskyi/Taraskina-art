@@ -1,3 +1,7 @@
+@use 'normalize.css';
+
+@use './scss/base/reset';
+
 .vite {
   padding: 20px;
   background-color: skyblue;
