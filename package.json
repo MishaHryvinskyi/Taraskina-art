@@ -1,11 +1,11 @@
 {
-  "name": "taraskina-art",
+  "name": "tar-art",
   "private": true,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/taraskina-art/",
+    "build": "vite build --base=/tar-art/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },
