@@ -1,11 +1,11 @@
 {
-  "name": "packege.json",
+  "name": "taraskina-art",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/taraskina-art/",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
